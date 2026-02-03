@@ -52,7 +52,21 @@
 
 ---
 
+### 📊 Project Metrics & Activity
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AbhiS1310&show_icons=true&theme=tokyonight" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiS1310&layout=compact&theme=tokyonight" width="300">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-bef264?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Contributions-Welcome-blue?style=for-the-badge&logo=gitbook">
+  <img src="https://img.shields.io/badge/AI%20Projects-4%2B-violet?style=for-the-badge&logo=openai">
+</p>
+
+| Metric | Status |
+| :--- | :--- |
+| **Current Focus** | LLM Agents & Voice Pipelines |
+| **Open for Roles** | AI Engineer / GenAI Specialist |
+| **GitHub Rank** | [View My Contributions](https://github.com/AbhiS1310?tab=overview) |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhiS1310&color=bef264&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
