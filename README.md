@@ -49,24 +49,3 @@
     <a href="https://codeforces.com/profile/AbhiS_99/"><img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"></a>
     <a href="https://www.codechef.com/users/abhi_1310"><img alt="CodeChef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"></a>
 </p>
-
----
-
-### 📊 Project Metrics & Activity
-<p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-bef264?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Contributions-Welcome-blue?style=for-the-badge&logo=gitbook">
-  <img src="https://img.shields.io/badge/AI%20Projects-4%2B-violet?style=for-the-badge&logo=openai">
-</p>
-
-| Metric | Status |
-| :--- | :--- |
-| **Current Focus** | LLM Agents & Voice Pipelines |
-| **Open for Roles** | AI Engineer / GenAI Specialist |
-| **GitHub Rank** | [View My Contributions](https://github.com/AbhiS1310?tab=overview) |
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhiS1310&color=bef264&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
