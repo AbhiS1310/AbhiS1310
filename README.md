@@ -1,80 +1,58 @@
-<!-- https://custom-icon-badges.herokuapp.com/ -->
-<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
-<!-- https://shields.io/ -->
-
-
-
 <h3 align="center">
-  Welcome to Abhishek Chaudhary's profile!
+  Welcome to Abhishek Chaudhary's profile! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Intrested%20In%20Latest%20Technology;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=BlueCenter=true&size=28&theme=tokyonight">
-
-</p>
- 
-
-
-- 👋 Hi, I’m ABHISHEK CHAUDHARY
-- 📄 Resume- <a href="https://drive.google.com/file/d/18MC6QcycC4HnE7uWRYMgtAIS6apGiThr/view?usp=drive_link" target="_blank">Click here</a>
-- 🧑‍💻 Portfolio- https://abhis1310.github.io/portfolio/
-- 🧑‍💻 Hackerrank- https://www.hackerrank.com/AbhiS1310
-- 🧑‍💻 CodeForces- https://codeforces.com/profile/AbhiS_99
-- 🧑‍💻 CodeChef- https://www.codechef.com/users/abhi_1310
-- 🧑‍💻  Leetcode- https://leetcode.com/AbhiS99/
-- 📫 How to reach me chaudhary.abhi627@gmail.com
-
-
- ### 👨‍💻 Programming and markup languages
-   <p>
-    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Araunakkumarsingh+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%26%20GenAI%20Specialist;LLM%20Orchestration%20%26%20Agents;Multimodal%20RAG%20Pipelines;Always%20learning%20new%20architectures&font=Fira%20Code&center=true&width=700&height=45&color=bef264&size=28&theme=tokyonight">
 </p>
 
+- 👋 Hi, I’m **ABHISHEK CHAUDHARY**
+- 🤖 **AI Engineer** specializing in production-grade GenAI systems, LLM Agents, and Multimodal Document AI.
+- 📄 **Resume** - <a href="https://drive.google.com/file/d/18MC6QcycC4HnE7uWRYMgtAIS6apGiThr/view?usp=drive_link" target="_blank">View Here</a>
+- 🧑‍💻 **Portfolio** - [abhis1310.github.io/portfolio/](https://abhis1310.github.io/portfolio/)
+- 📫 **Reach me** - chaudhary.abhi627@gmail.com
 
-### 🧰 Frameworks and libraries
+---
+
+### 🧠 Artificial Intelligence & Machine Learning
 <p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat">
+    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white">
+    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
+    <img alt="Groq" src="https://img.shields.io/badge/Groq-f3f3f3?style=flat&logo=lightning&logoColor=black">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white">
 </p>
 
-### 🗄️ Databases and cloud hosting
-
+### 👨‍💻 Programming Languages
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
 </p>
 
-### 💻 Software and tools
-
+### 🧰 Tools & Frameworks
 <p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+    <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-white?style=flat&logo=socket.io&logoColor=black">
 </p>
 
+### 🏆 Competitive Programming
+<p>
+    <a href="https://leetcode.com/AbhiS99/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"></a>
+    <a href="https://codeforces.com/profile/AbhiS_99/"><img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"></a>
+    <a href="https://www.codechef.com/users/abhi_1310"><img alt="CodeChef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"></a>
+</p>
 
+---
 
-
-<!---
-AbhiS1310/AbhiS1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=AbhiS1310&show_icons=true&theme=tokyonight" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiS1310&layout=compact&theme=tokyonight" width="300">
+</p>
